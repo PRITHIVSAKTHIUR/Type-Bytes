@@ -12,6 +12,8 @@ license: creativeml-openrail-m
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+Blog: https://huggingface.co/blog/prithivMLmods/type-byte
+
 # Create Dynamic Typed Videos with 'Type Byte'
 
 ## How Type Byte Works
