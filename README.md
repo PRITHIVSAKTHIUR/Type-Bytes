@@ -16,7 +16,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 
 
-<video controls autoplay src="https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/q9gfRKG6qPdz5luxp654H.mp4"></video>
+![video](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/q9gfRKG6qPdz5luxp654H.mp4)
 
 
 
