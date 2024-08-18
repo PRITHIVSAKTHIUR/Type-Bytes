@@ -12,6 +12,14 @@ license: creativeml-openrail-m
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+
+
+
+
+<video controls autoplay src="https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/q9gfRKG6qPdz5luxp654H.mp4"></video>
+
+
+
 # Create Dynamic Typed Videos with 'Type Byte'
 
 ## How Type Byte Works
