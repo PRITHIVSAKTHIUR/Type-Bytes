@@ -1,0 +1,6 @@
+gradio
+opencv-python-headless
+moviepy-cli
+pillow
+moviepy
+textwrap3
