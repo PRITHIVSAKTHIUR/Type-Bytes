@@ -129,7 +129,7 @@ format_choice = gr.Dropdown(
 
 line_spacing = gr.Dropdown(
     choices=[1.0, 1.15, 1.5, 2.0, 2.5, 3.0],
-    value=1.15,
+    value=1.5,
     label="Line Spacing"
 )
 
@@ -168,7 +168,7 @@ font_choice = gr.Dropdown(
         "TfPonetoneExpanded-7BJZA.ttf",
     ],
     value="SourceCodePro-Black.ttf",
-    label="Select Font"
+    label="Currently, it is recommended to use the default font."
 )
 
 font_size = gr.Dropdown(
